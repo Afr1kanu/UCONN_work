@@ -1,0 +1,21 @@
+Enter the capacity of the fuel tank: -23
+1230924
+-1244
+4
+Enter the amount of fuel in the tank: 8
+4
+Enter the maximum speed: 20
+Enter the current speed: 25
+20
+Enter the efficiency (Percentage): 100
+Enter the distance traveled so far: 40
+
+Fuel Amount: 4.0
+Would you like to add more fuel? (y/n): y
+How much fuel would you like to add: 24
+Fuel Amount:4.0
+How long would you like to operate the boat: 123
+2
+Not enough fuel, cannot operate boat.
+Fuel Amount: 4.0
+Updated Distance: 40.0

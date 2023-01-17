@@ -1,0 +1,15 @@
+PS C:\Users\Alex>  & 'C:\Program Files\Java\jdk-17.0.5\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Alex\AppData\Local\Temp\vscodesws_99a24\jdt_ws\jdt.ls-java-project\bin' 'MotorBoatTest' 
+Enter The capacity of the fuel tank: 250
+Enter the amount of fuel in the tank: 200
+Enter the maximum speed: 40
+Enter the current speed: 35
+Enter the efficiency (Percentage): 100
+Enter the distance traveled so far: 40
+Fuel Amount: 200.0
+Would you like to add more fuel? (y/n): y
+How much fuel would you like to add: 50
+Fuel Amount:250.0
+How long would you like to operate the boat: 3
+Not enough fuel, cannot operate boat.
+Fuel Amount: 250.0
+Updated Distance: 40.0

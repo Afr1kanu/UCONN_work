@@ -1,0 +1,16 @@
+Enter the capacity of the fuel tank: 100
+Enter the amount of fuel in the tank: 50
+Enter the maximum speed: 20
+Enter the current speed: 4
+Enter the efficiency (Percentage): 80
+Enter the distance traveled so far: 10
+
+Fuel Amount: 50.0
+Would you like to add more fuel? (y/n): n
+Fuel Amount:50.0
+How long would you like to operate the boat: 1
+
+Operating the motorboat
+
+Fuel Amount: 37.2
+Updated Distance: 14.0
